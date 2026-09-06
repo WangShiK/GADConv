@@ -1,4 +1,4 @@
 # GMNet
-Robust Forest Tree Crown Mapping in Complex UAV Imagery via Adaptive Feature Learning and Wavelet-Detailed Preservation
+Adaptive Feature Learning and Wavelet Preservation for Forest Canopy Mapping from UAV Imagery
 
 Code will be uploaded after acceptance.
